@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/phonk-banner.png" width="100%" alt="M Dawood — Unreal Engine 5, C++, Blueprints. Neon violet night-drive banner." />
+  <img src="assets/gojo-phonk-banner.gif" width="100%" alt="M Dawood — Unreal Engine 5, C++, Blueprints. Gojo anime banner with a subtle looping neon-energy pulse." />
 </p>
 
 <h1 align="center">Hey, I'm Dawood.</h1>
