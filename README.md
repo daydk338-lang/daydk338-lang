@@ -1,66 +1,95 @@
+<!-- Upload README.md and the entire assets folder to your username repository. -->
 <p align="center">
-  <img src="assets/gojo-phonk-banner.gif" width="100%" alt="M Dawood — Unreal Engine 5, C++, Blueprints. Gojo anime banner with a subtle looping neon-energy pulse." />
+  <img src="assets/kaiser-manga-banner.png" width="100%" alt="M Dawood — Unreal Engine 5 gameplay engineer. Kaiser manga illustration in black and white." />
 </p>
 
-<h1 align="center">Hey, I'm Dawood.</h1>
-<p align="center"><b>Unreal Engine Developer · Software Engineer · Lahore, Pakistan</b></p>
-<p align="center">I build responsive gameplay, connected worlds, and systems that feel good to play.</p>
+<p align="center"><samp>UNREAL ENGINE DEVELOPER &nbsp; / &nbsp; SOFTWARE ENGINEER &nbsp; / &nbsp; LAHORE, PAKISTAN</samp></p>
+<p align="center"><a href="#systems">SYSTEMS</a> &nbsp; / &nbsp; <a href="#journey">EXPERIENCE</a> &nbsp; / &nbsp; <a href="#contact">CONNECT</a></p>
+
+<br />
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>THE DEVELOPER BEHIND THE GAME</h3>
+      <p>I'm <b>Dawood</b>, an Unreal Engine 5 developer building polished PC and mobile game experiences with <b>C++ and Blueprints</b>.</p>
+      <p>I work across gameplay, combat, multiplayer, AI, interfaces, and optimization — connecting the technical systems to how a game feels in a player's hands.</p>
+    </td>
+    <td width="40%" valign="top">
+      <h3>AT A GLANCE</h3>
+      <p><b>ROLE</b><br />Software Engineer · GenITeam Solutions</p>
+      <p><b>FREELANCE</b><br />Fiverr Level 2 Seller · 25+ completed game development projects</p>
+      <p><b>PLATFORMS</b><br />PC &amp; Mobile</p>
+    </td>
+  </tr>
+</table>
+
+<br />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/m-dawood-9b8a39274/"><img src="https://img.shields.io/badge/LinkedIn-LET'S_CONNECT-9D5CFF?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/FOCUS-UNREAL_ENGINE_5-16D9E3?style=for-the-badge" alt="Focus: Unreal Engine 5" />
+  <img src="assets/skill-unreal.svg" height="32" alt="Unreal Engine 5" />
+  <img src="assets/skill-cpp.svg" height="32" alt="C++" />
+  <img src="assets/skill-blueprints.svg" height="32" alt="Blueprints" />
+  <img src="assets/skill-multiplayer.svg" height="32" alt="Multiplayer" />
+  <img src="assets/skill-ai.svg" height="32" alt="Gameplay AI" />
+  <img src="assets/skill-ui.svg" height="32" alt="UI / UX" />
 </p>
 
----
+<br />
 
-### `01 / ABOUT THE DEVELOPER`
+<a id="systems"></a>
+<p><img src="assets/systems.svg" width="100%" alt="01 / Systems I build" /></p>
 
-I'm an Unreal Engine 5 developer working with **C++ and Blueprints** to turn game ideas into polished PC and mobile experiences. My work covers gameplay programming, multiplayer systems, AI behavior, combat mechanics, UI/UX, SDK integration, and performance optimization.
+<table>
+  <tr>
+    <td width="50%" valign="top"><h3>GAMEPLAY / COMBAT</h3><p>Weapon mechanics, player movement, combat flow, and responsive gameplay interactions.</p></td>
+    <td width="50%" valign="top"><h3>MULTIPLAYER / AI</h3><p>Replication, matchmaking logic, network synchronization, and gameplay AI behavior.</p></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><h3>INTERFACES / INTEGRATIONS</h3><p>Game UI/UX, SDK integrations, ads, in-app purchases, and analytics.</p></td>
+    <td width="50%" valign="top"><h3>PERFORMANCE / DELIVERY</h3><p>PC and mobile optimization, prototypes, full-cycle development, project planning, and client coordination.</p></td>
+  </tr>
+</table>
 
-At **GenITeam Solutions**, I combine hands-on Unreal development with project planning, client communication, and delivery coordination. I also work as a freelance Unreal Engine developer on Fiverr, where I've completed **25+ game development projects** as a **Level 2 Seller**.
+<br />
 
-### `02 / THE TOOLKIT`
+<a id="journey"></a>
+<p><img src="assets/journey.svg" width="100%" alt="02 / The development arc" /></p>
 
-<p>
-  <img src="https://img.shields.io/badge/Unreal_Engine_5-181224?style=for-the-badge&amp;logo=unrealengine&amp;logoColor=B78AFF" alt="Unreal Engine 5" />
-  <img src="https://img.shields.io/badge/C%2B%2B-181224?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=48E2E8" alt="C++" />
-  <img src="https://img.shields.io/badge/Blueprints-181224?style=for-the-badge&amp;logoColor=F04DB8" alt="Blueprints" />
-  <img src="https://img.shields.io/badge/Multiplayer-181224?style=for-the-badge" alt="Multiplayer" />
-  <img src="https://img.shields.io/badge/Gameplay_AI-181224?style=for-the-badge" alt="Gameplay AI" />
-  <img src="https://img.shields.io/badge/UI%2FUX-181224?style=for-the-badge" alt="UI and UX" />
-</p>
+<blockquote>
+  <p><b>SOFTWARE ENGINEER · GenITeam Solutions</b><br /><samp>MAR 2026 — PRESENT</samp></p>
+  <p>Unreal Engine development alongside end-to-end project delivery. Gameplay systems, multiplayer, AI, combat, performance optimization, client requirements, and team coordination.</p>
+</blockquote>
 
-| System | What I work on |
-| :--- | :--- |
-| **Gameplay & combat** | Weapon mechanics, player movement, combat flow, and responsive interactions |
-| **Multiplayer** | Replication, matchmaking logic, and network synchronization |
-| **AI behavior** | Gameplay AI and interactions that support engaging player experiences |
-| **UI & integrations** | Game interfaces, ads, in-app purchases, analytics, and SDK integration |
-| **Performance & delivery** | PC/mobile optimization, prototypes, and full-cycle development |
-
-### `03 / EXPERIENCE LOG`
-
-| Role | Team | Timeline |
-| :--- | :--- | :--- |
-| **Software Engineer** | GenITeam Solutions | Mar 2026 – Present |
-| **Unreal Engine Developer** | Fiverr · Freelance | Jan 2025 – Present |
-| **Game Developer** | Venzo Labs | Jan – Feb 2026 |
-| **Junior Game Developer** | Dev Cynx | Jan 2025 – Jan 2026 |
-
-At **Venzo Labs**, I contributed to a multiplayer mobile FPS in UE5, working on weapons, movement, combat flow, replication, and network synchronization. At **Dev Cynx**, I worked on 2D/3D PC games, game mechanics, interfaces, and SDK integrations.
+<blockquote>
+  <p><b>UNREAL ENGINE DEVELOPER · Fiverr</b><br /><samp>JAN 2025 — PRESENT</samp></p>
+  <p>Level 2 Seller with 25+ completed game development projects. PC and mobile gameplay programming, multiplayer, AI, UI/UX, integrations, and development from prototype to release.</p>
+</blockquote>
 
 <details>
-<summary><b>Education</b></summary>
-
-**Bachelor's degree in Computer Science**  
-Minhaj University Lahore · 2020–2024
-
+  <summary><b>EARLIER CHAPTERS — Venzo Labs &amp; Dev Cynx</b></summary>
+  <h4>Game Developer · Venzo Labs</h4>
+  <p><samp>JAN — FEB 2026</samp></p>
+  <p>Contributed to a multiplayer mobile FPS in UE5: weapons, movement, combat flow, replication, matchmaking logic, and network synchronization.</p>
+  <h4>Junior Game Developer · Dev Cynx</h4>
+  <p><samp>JAN 2025 — JAN 2026</samp></p>
+  <p>Worked on 2D/3D PC games, gameplay mechanics, UI/UX with Blueprints and C++, and SDK integrations for ads, in-app purchases, and analytics.</p>
 </details>
 
-### `04 / LET'S BUILD SOMETHING PLAYABLE`
+<details>
+  <summary><b>EDUCATION — Computer Science</b></summary>
+  <p>Bachelor's degree in Computer Science · Minhaj University Lahore · 2020–2024</p>
+</details>
 
-Interested in collaborating on Unreal Engine gameplay, multiplayer experiences, or a game prototype? **[Let's connect on LinkedIn →](https://www.linkedin.com/in/m-dawood-9b8a39274/)**
+<br />
 
----
+<a id="contact"></a>
+<p><img src="assets/contact.svg" width="100%" alt="03 / Next chapter" /></p>
 
-<p align="center"><sub>BLUEPRINT THE IDEA. CODE THE FEEL. ITERATE THE EXPERIENCE.</sub></p>
+<h3 align="center">LET'S BUILD SOMETHING PLAYABLE.</h3>
+<p align="center">Unreal Engine gameplay · Multiplayer experiences · Game prototypes</p>
+<p align="center"><b><a href="https://www.linkedin.com/in/m-dawood-9b8a39274/">CONNECT WITH ME ON LINKEDIN ↗</a></b></p>
+
+<br />
+
+<p><img src="assets/signature.svg" width="100%" alt="Blueprint the idea. Code the feel." /></p>
